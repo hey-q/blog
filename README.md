@@ -27,3 +27,12 @@
    - 有问题搞不定，请联系我
 
 ### 使用github pages
+
+1. 进入你的github账号
+2. 点击头像进入settings
+3. 向下拉找到GitHub Pages栏，其中粗体字Source下面有两个按钮
+4. 点击左边按钮，选择master branch
+5. 然后点击右边按钮Save
+6. 搞定，再回来 settings--GitHub Pages栏，你会看到“Your site is ready to be published at https://xxxxxxx”这就是你博客的链接啦，点击看看
+
+### 感谢您的支持，祝您生活愉快
